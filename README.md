@@ -11,7 +11,7 @@ I'm also a student and full stack developer at Epitech.
 
 ## Languages and Tools:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeddiGU&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-stats-eta-roan.vercel.app/api/top-langs/?username=meddigu&layout=donut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
