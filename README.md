@@ -1,6 +1,6 @@
 # Hi 👋, I'm Meddi Gueran
 
-I'm a C/C++ developer
+I'm a FullStack developer
 
 I'm also a student and full stack developer at Epitech.
 
