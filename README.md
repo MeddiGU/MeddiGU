@@ -5,7 +5,6 @@ I'm a C/C++ developer
 I'm also a student and full stack developer at Epitech.
 
 - 🔭 I’m currently working on [Projets Actuels](#)
-- 🌐 All of my other projects are available at [Votre Site Web](#)
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/meddi-gueran/) or via [email](mailto:meddi.gueran@epitech.eu)
 - 📄 My curriculum vitae is available [here](#)
 
