@@ -6,7 +6,7 @@ I'm also a student and full stack developer at Epitech.
 
 - 🔭 I’m currently working on [Projets Actuels](#)
 - 📫 You can reach me on my [LinkedIn](https://www.linkedin.com/in/meddi-gueran/) or via [email](mailto:meddi.gueran@epitech.eu)
-- 📄 My curriculum vitae is available [here](#)
+- 📄 My Portofolio is available [here](https://meddigu.github.io/portofolio-website)
 
 ## Languages and Tools:
 
