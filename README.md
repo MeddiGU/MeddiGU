@@ -6,14 +6,6 @@ Passionate about creating interactive experiences and educational tools. I love 
 
 ---
 
-## 🚀 Featured Project: **Milo**
-I am currently developing **Milo**, my final year project. It's an innovative AI-powered learning platform designed for middle school students.
-- **Web:** Immersive 3D interactive courses using **Three.js**.
-- **Mobile:** Smart revision tool using a conversational AI interface and flashcards.
-- **Goal:** Making education engaging through AI mentorship and gamification.
-
----
-
 ## 🛠 Languages and Tools:
 
 ### 🌐 Frontend & Mobile
