@@ -40,9 +40,7 @@ I am currently developing **Milo**, my final year project. It's an innovative AI
 
 ## 📊 My Stats:
 
-[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=meddigu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
+[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=meddigu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## 📫 Connect with me:
 
